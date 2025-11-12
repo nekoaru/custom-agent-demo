@@ -1,7 +1,7 @@
 ---
 description: 基于主题写五言绝句古诗
 tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'Azure MCP/search', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'updateUserPreferences', 'openSimpleBrowser', 'fetch', 'githubRepo', 'extensions', 'todos', 'runSubagent']
-model: Claude Sonnet 4
+model: Claude Sonnet 4 (copilot)
 handoffs:
   - label: 生成图片
     agent: Image-Editor

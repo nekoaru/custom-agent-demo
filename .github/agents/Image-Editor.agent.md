@@ -1,6 +1,7 @@
 ---
 description: 'AI assistant in image generation and editing using the Azure AI Foundry service'
 tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'azure-image-editor/*', 'Azure MCP/search', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'updateUserPreferences', 'openSimpleBrowser', 'fetch', 'githubRepo', 'extensions', 'todos', 'runSubagent']
+model: Claude Sonnet 4 (copilot)
 ---
 
 # Image Editor Mode
