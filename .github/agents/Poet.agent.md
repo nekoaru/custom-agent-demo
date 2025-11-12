@@ -4,7 +4,7 @@ tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'Azu
 model: Claude Sonnet 4
 handoffs:
   - label: 生成图片
-    agent: Image Editor
+    agent: Image-Editor
     prompt: 基于前文的五言绝句古诗生成一张图片，要求意境深远，符合诗歌内容。图片要求是横板的。
     send: true
 ---
